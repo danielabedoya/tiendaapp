@@ -1,0 +1,186 @@
+.segundo {
+    font-family: 'Comfortaa', cursive;
+    margin-left: 900px;
+    
+}
+.buscador {
+    width: 500px;
+    height: 35px;
+
+}
+.icono {
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+}
+.princi {
+    margin: 10px;
+
+}
+button {
+    padding: 20px 40px;
+    border: 2px solid #8adb86;
+    border-radius: 35px;
+    margin: 10px;
+    background: none;
+    color: white;
+    font-weight: bold;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+
+/*sobre los botones*/
+.btn:hover {
+    background-color:white;
+    color:#8adb86;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+.produ {
+    margin: 10px;
+
+}
+.quie {
+    margin: 10px;
+
+}
+.logje {
+   margin-top: -30px;
+}
+.principal {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.productos {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.quienes {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.buscar {
+    width: 400px;
+    background-color: #D3D3D3;
+    border-radius: 30px;
+    border: none;
+    margin-left: 25px;
+
+}
+.buscador {
+    background-color: #D3D3D3;
+    border-radius: 30px;
+
+}
+.filauno {
+    align-content: center;
+    margin-left: 200px;
+
+}
+header {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
+.log {
+    width: 200px;
+    height: 55px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+}
+.num {
+   margin: 10px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 14px;
+    margin-top: 10px;
+    
+}
+.imagg {
+  margin-top: 8px;
+    
+}
+
+.nomb {
+   font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+    color: #8adb86;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    
+}
+.titulin {
+   font-family: 'Comfortaa', cursive;
+    font-size: 24px;
+    
+}
+.agre {
+  margin-top: 23px;
+    
+}
+.bande {
+  margin-top: 18px;
+    margin-right: 10px;
+    
+}
+.pantallas {
+  width: 30vh;
+    height: 60vh;
+    margin: 10px;
+    border-radius: 30px;
+    margin-top: 20px;
+    
+}
+ 
+
+.filados {
+   font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 700px;
+    
+    
+    
+}
+
+.texto {
+   font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.titu {
+   
+    font-size: 14px;
+    margin-bottom: 25px;
+    
+}
+.desdos {
+   
+    margin-bottom: 15px;
+    
+}
+.enlace {
+   
+   text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+    color: #8adb86;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    
+}
+
+footer {
+   font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

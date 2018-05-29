@@ -1,0 +1,426 @@
+.icono {
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+}
+
+.buscador {
+    width: 500px;
+    height: 35px;
+
+}
+
+.log {
+    width: 200px;
+    height: 55px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.segundo {
+    font-family: 'Comfortaa', cursive;
+    margin-left: 900px;
+    
+}
+
+.princi {
+    margin: 10px;
+
+}
+.produ {
+    margin: 10px;
+
+}
+.quie {
+    margin: 10px;
+
+}
+
+.amarilla {
+
+    background-image: url(tienda/amarilla.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+    margin: 0 auto;
+    background-position: -200px;
+    width: 40vh;
+    height: 80vh;
+    border-radius: 30px;
+    position: absolute;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.8);
+    filter:brightness(0.4);
+    
+    
+    
+
+}
+
+.te {
+    text-align: center;
+    margin-top: 250px;
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    color: white;
+    
+
+}
+.tex {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    color: white;
+
+}
+.textt {
+    text-align: center;
+   position: absolute;
+    margin-top: 80px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    color: white;
+
+}
+.texttt {
+    text-align: center;
+   position: absolute;
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    color: white;
+
+}
+.control {
+
+    background-image: url(tienda/control.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+    margin: 0 auto;
+    width: 100vh;
+    height: 40vh;
+    border-radius: 30px;
+    margin-bottom: 40px;
+    background-color: rgba(0,0,0,0.8);
+    filter:brightness(0.4);
+
+
+}
+.libro {
+
+    background-image: url(tienda/libros.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+    margin-right: 20px;
+   
+    width: 40vh;
+    height: 35vh;
+    border-radius: 30px;
+     background-color: rgba(0,0,0,0.8);
+    filter:brightness(0.4);
+
+    
+}
+
+.app {
+
+    background-image: url(tienda/app.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+    margin-left: 40px;
+    
+    width: 50vh;
+    height: 35vh;
+     background-color: rgba(0,0,0,0.8);
+    filter:brightness(0.4);
+
+    border-radius: 30px;
+   
+}
+
+.ancho {
+    border-bottom: thick solid;
+    border-bottom-color: #8adb86;
+    color: gray;
+}
+.logje {
+   margin-top: -30px;
+}
+
+
+
+
+.bichouno {
+
+    background-image: url(tienda/bicho1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+        background-position: center;
+
+    margin: 0 auto;
+    width:38vh;
+    height: 20vh;
+    
+    border-radius: 30px;
+    margin-bottom: 40px;
+
+}
+.bichodos {
+
+    background-image: url(tienda/bicho2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+    background-position: center;
+    margin: 0 auto;
+    width: 38vh;
+    height: 20vh;
+    
+    border-radius: 30px;
+    margin-bottom: 40px;
+
+}
+.bichotres{
+
+    background-image: url(tienda/bicho3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image: center;
+        background-position: center;
+
+    
+    
+    
+    margin: 0 auto;
+    width: 38vh;
+    height: 20vh;
+    
+    border-radius: 30px;
+    margin-bottom: 40px;
+
+}
+
+
+.principal {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.productos {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.quienes {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.buscar {
+    width: 400px;
+    background-color: #D3D3D3;
+    border-radius: 30px;
+    border: none;
+    margin-left: 25px;
+
+}
+
+.filados {
+    background-position: center;
+    background-size: cover;
+
+    width: 100%;
+    height: 50vh;
+    position: relative;
+}
+
+.btn {
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    border-bottom-color: none;
+    border-radius: 35px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #83a4d4;
+    font-weight: bold;
+    font-size: 11px;
+    width: 115px;
+    height: 35px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    color: white;
+
+}
+
+.btn:hover {
+    background-color: white;
+    color: #D3D3D3;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+section {
+    align-content: center;
+}
+
+.buscador {
+    background-color: #D3D3D3;
+    border-radius: 30px;
+
+}
+
+.saludo {
+    margin-left: 150px;
+    margin-top: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+
+
+}
+
+.nuevos {
+    margin-left: 150px;
+    margin-top: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+
+
+}
+
+.visto {
+    margin-left: 150px;
+    margin-top: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+
+
+}
+
+.cosis {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    
+
+}
+
+.titulo {
+    color: #8adb86;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.cuaver {
+    border-radius: 30px;
+    width: 120px;
+    height: 110px;
+    border: 3px solid #8adb86;
+    margin: 10px;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.saldo {
+    margin-bottom: 20px;
+
+}
+
+.saldos {
+    margin-left: 65px;
+    margin-top: 25px;
+
+}
+
+.uso {
+    margin-left: 28px;
+    margin-top: 10px;
+
+}
+
+.cdos {
+    margin-left: 5px;
+
+}
+.con {
+    margin:10px;
+    width: 1010px;
+     align-content: center;
+     margin-left: 150px;
+    margin-right: 100px;
+    margin-top: 40px;
+   
+}
+
+
+.bloque {
+    margin: 30px;
+
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.contenido {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    margin: 10px;
+    font-size: 14px;
+    color: white;
+    margin-top: 45px;
+
+}
+
+footer {
+   font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bicho {
+    width: 50vh;
+    height: 40vh;
+
+}
+
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+
+
+
+
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
